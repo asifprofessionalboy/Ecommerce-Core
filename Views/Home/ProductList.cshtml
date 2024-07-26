@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Ecommerce_Project.Models.Product>
+
+@{
+    Layout = "~/Views/_Layout2.cshtml";
+}
+
+
+
+<div class="d-flex align-items-center mb-3">
+    
+    <div class="">
+        <a asp-action="AddProduct" asp-controller="Home" class="btn btn-theme"><i class="fa fa-plus-circle fa-fw me-1"></i> Add New Product !</a>
+    </div>
+</div>
+
+
+
+
+<div class="dataTable" id="id="datatable">
+<div class="card">
+	<div class="card-body">
+		<div id="datatableDefault_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+			
+                <table id="datatableDefault" class="table table-responsive table-hover text-nowrap w-100 dataTable no-footer dtr-inline collapsed" aria-describedby="datatableDefault_info" >
+             
+                    <thead class="table-dark">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Pid)
+                            </th>
+                          
+                            <th>
+                                    @Html.DisplayNameFor(model => model.Title)
+                            </th>
+                            <th>
+                                    @Html.DisplayNameFor(model => model.Price)
+                            </th>
+                            <th>
+                                    @Html.DisplayNameFor(model => model.Qty)
+                            </th>
+                            <th>
+                                Photo
+                            </th>
+                            <th>
+                                    @Html.DisplayNameFor(model => model.Status)
+                            </th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            @foreach (var item in Model)
+                            {
+                            <tr>
+                         
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Pid)
+                                </td>
+
+                                <td>
+                                        @Html.DisplayFor(modelItem => item.Title)
+                                </td>
+                                <td>
+                                        @Html.DisplayFor(modelItem => item.Price)
+                                </td>
+                                <td>
+                                        @Html.DisplayFor(modelItem => item.Qty)
+                                </td>
+                                <td>
+                                    <img src="../images/@item.Pic" width="100px">
+                                </td>
+                                <td class="">
+                                        @Html.DisplayFor(modelItem => item.Status)
+                                </td>
+                                <td>
+                                    <a asp-action="EditProduct" asp-route-id="@item.Pid" style="color:green">  <i class="fa fa-edit"></i></a> &nbsp;&nbsp;
+                                    <a asp-action="DetailProduct" asp-route-id="@item.Pid" style="color:orange">   <i class="fa fa-eye"></i></a> &nbsp;&nbsp;
+                                    <a asp-action="DeleteProduct" asp-route-id="@item.Pid" style="color:red">   <i class="fa fa-trash"></i></a>
+                                </td>
+                            </tr>
+                            }
+                    </tbody>
+             
+			</table>
+
+
+
+
+
+
+		</div>
+	</div>
+
+</div>
+</div>

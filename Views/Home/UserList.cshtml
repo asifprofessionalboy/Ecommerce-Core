@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Ecommerce_Project.Models.UserTbl>
+
+@{
+    Layout = "~/Views/_Layout2.cshtml";
+}
+
+
+
+
+
+
+
+
+<div class="dataTable" id="id=" datatable">
+    <div class="card">
+        <div class="card-body">
+            <div id="datatableDefault_wrapper" class="dataTables_wrapper dt-bootstrap5 no-footer">
+
+                <table id="datatableDefault" class="table table-responsive table-hover text-nowrap w-100 dataTable no-footer dtr-inline collapsed" aria-describedby="datatableDefault_info" style="width: 637px;">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Uid)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Name)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Mobile)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Email)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Address)
+                            </th>
+                         
+                            <th>
+                                @Html.DisplayNameFor(model => model.Password)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.ConfrimPassword)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CurrentDate)
+                            </th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Uid)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Mobile)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Email)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Address)
+                                </td>
+                              
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Password)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ConfrimPassword)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CurrentDate)
+                                </td>
+                                <td>
+                                    <a asp-action="EditUser" asp-route-id="@item.Uid" style="color:green">  <i class="fa fa-edit"></i></a> &nbsp;&nbsp;
+                                    <a asp-action="DetailUser" asp-route-id="@item.Uid" style="color:orange">   <i class="fa fa-eye"></i></a> &nbsp;&nbsp;
+                                    <a asp-action="DeleteUser" asp-route-id="@item.Uid" style="color:red">   <i class="fa fa-trash"></i></a>
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

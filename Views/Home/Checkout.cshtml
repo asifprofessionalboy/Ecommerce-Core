@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+
+@if (ViewBag.checkoutmsg != null)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="alert alert-success">
+                    @ViewBag.checkoutmsg
+
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<section class="breadcrumb-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-content">
+                    <h1 class="breadcrumb-hrading">Checkout</h1>
+                    <ul class="breadcrumb-links">
+                        <li><a href="index.html">Home</a></li>
+                        <li>Checkout</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<div class="checkout-area mt-60px mb-40px">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7">
+                <div class="your-order-area">
+                    <h3>Your Order</h3>
+                    <div class="your-order-wrap gray-bg-4">
+                        <div class="your-order-product-info">
+                            <div class="your-order-top">
+                                <ul>
+                                    <li>Product</li>
+                                    <li>Price Calculation</li>
+                                </ul>
+                            </div>
+                            <form method="post" asp-action="Checkout">
+                                <!-- Your other HTML content -->
+                                <div class="your-order-total">
+                                    <table class="show-cart table">
+                                        <!-- Cart items will be displayed here dynamically -->
+                                    </table>
+                                    <ul>
+                                        <li class="order-total grand-total">
+                                            Total price: ₹
+                                            <span class="total-cart"></span>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <!-- Hidden input fields for cart item details -->
+                                <input type="hidden" id="cartItemNames" name="CartItemNames">
+                                <input type="hidden" id="cartItemPrices" name="CartItemPrices">
+                                <input type="hidden" id="cartItemQuantities" name="CartItemQuantities">
+                                <!-- Your other HTML content -->
+                                <button type="submit" class="btn btn-primary">Place Order</button>
+                                <button hidden type="submit" id="clear-cart-btn" class="btn btn-danger">Clear Cart</button>
+                            </form>
+                        
+
+                            <!-- Clear Cart button -->
+
+              
+                          
+                        </div>
+                    </div>
+                    <div class="Place-order mt-25">
+                    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

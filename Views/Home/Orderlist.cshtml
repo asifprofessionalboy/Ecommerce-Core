@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Ecommerce_Project.Models.OrderTbl>
+
+@{
+    Layout = "~/Views/_Layout2.cshtml";
+}
+
+<h1>Orderlist</h1>
+
+
+
+
+<div >
+    <div class="card">
+        <div class="card-body">
+            <div id="" class="">
+
+                <table id="datatableDefault" class="table table-responsive table-hover" >
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Oid)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.OrderDate)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Quantity)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.TotalAmount)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.ProductName)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.ProductId)
+                            </th>
+
+                            <th>
+                                @Html.DisplayNameFor(model => model.UserId)
+                            </th>
+
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Oid)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.OrderDate)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Quantity)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.TotalAmount)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ProductName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Product.Pid)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.User.Uid)
+                                </td>
+                                <td>
+                                    <a asp-action="#" class="btn btn-primary" asp-route-id="@item.Oid">Confirm</a> 
+                                    <a asp-action="#" class="btn btn-danger" asp-route-id="@item.Oid">Cancel</a> 
+                                 
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+    </div>
+</div>

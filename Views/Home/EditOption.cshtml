@@ -1,0 +1,78 @@
+﻿@model Ecommerce_Project.Models.Option
+
+@{
+    Layout = "~/Views/_Layout2.cshtml";
+}
+
+
+@if (ViewBag.opmsg != null)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="alert alert-success">
+                    <strong>Success ! </strong> @ViewBag.opmsg
+
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+<h4>Option</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditOption">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Logo" class="control-label"></label>
+                <input asp-for="Logo" class="form-control" />
+                <span asp-validation-for="Logo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SiteName" class="control-label"></label>
+                <input asp-for="SiteName" class="form-control" />
+                <span asp-validation-for="SiteName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SiteTitle" class="control-label"></label>
+                <input asp-for="SiteTitle" class="form-control" />
+                <span asp-validation-for="SiteTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SiteDesc" class="control-label"></label>
+                <input asp-for="SiteDesc" class="form-control" />
+                <span asp-validation-for="SiteDesc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mobile" class="control-label"></label>
+                <input asp-for="Mobile" class="form-control" />
+                <span asp-validation-for="Mobile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FooterTitle" class="control-label"></label>
+                <input asp-for="FooterTitle" class="form-control" />
+                <span asp-validation-for="FooterTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

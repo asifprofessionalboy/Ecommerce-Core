@@ -1,0 +1,67 @@
+﻿@model Ecommerce_Project.Models.WomensCosViewModel
+
+@{
+    Layout = "~/Views/_Layout2.cshtml";
+}
+
+
+@if (ViewBag.Promsg != null)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="alert alert-success">
+                    <strong>Success ! </strong> @ViewBag.Promsg
+
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+<h4>Add Products</h4>
+<div>
+    <a asp-action="WomensCosmotics">Back to List</a>
+</div>
+<hr />
+<div class="card col-md-7">
+    <div class="card-body pb-2">
+        <form asp-action="AddWomensCos" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Qty" class="control-label"></label>
+                <input asp-for="Qty" class="form-control" />
+                <span asp-validation-for="Qty" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Photo" class="control-label"></label>
+                <input asp-for="Photo" class="form-control" />
+                <span asp-validation-for="Photo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" asp-items="@ViewBag.data" class="form-control">
+                    <option value="">Please Select Status</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Ecommerce_Project.Models.Option>
+
+@{
+    Layout = "~/Views/_Layout2.cshtml";
+}
+
+
+
+<table class="table table-bordered" style="background:#fff">
+    <thead class="table-dark">
+        <tr>
+            <th>
+              Logo
+            </th>
+            <th>
+             Site Name
+            </th>
+            <th>
+              Head Title
+            </th>
+            <th>
+              Description
+            </th>
+            <th>
+             Email
+            </th>
+            <th>
+              Mobile No
+            </th>
+            <th>
+            Footer Title
+            </th>
+            <th>
+              Address
+            </th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Logo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiteName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiteTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiteDesc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FooterTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                <a asp-action="EditOption" class="btn btn-success" asp-route-id="@item.Id">Edit</a>
+             
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,887 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Tasleem Ecommerce</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon/favicon.png" />
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800&amp;display=swap" rel="stylesheet" />
+
+
+
+    <link rel="stylesheet" href="~/assets/css/vendor/font-awesome.min.css" />
+
+    <link rel="stylesheet" href="~/assets/css/vendor/vendor.min.css">
+    <link rel="stylesheet" href="~/assets/css/plugins/plugins.min.css">
+    <link rel="stylesheet" href="~/assets/css/style.min.css">
+    <link rel="stylesheet" href="~/assets/css/responsive.min.css">
+
+    <link rel="stylesheet" href="~/assets/css/vendor/bootstrap.min.css" />
+   
+
+
+
+
+</head>
+<body class="home-12 home-17 home-medical">
+
+    <!-- Header Start -->
+    <header class="main-header">
+
+
+        <!-- Header Top End -->
+        <!-- Header Buttom Start -->
+        <div class="header-navigation d-lg-block d-none">
+            <div class="container">
+                <div class="row">
+                    <!-- Logo Start -->
+                    <div class="col-md-2 col-sm-2">
+                        <div class="logo">
+                            <a asp-action="Index" asp-controller="Home"><img src="assets/images/logo/estore2.jpg" alt="" /></a>
+                        </div>
+                    </div>
+                    <!-- Logo End -->
+                    <div class="col-md-6 col-sm-10">
+                        <!--Header Bottom Account Start -->
+                        <div class="header_account_area home-6">
+                            <!--Seach Area Start -->
+                            <div class="header_account_list search_list">
+                                <a href="javascript:void(0)"><i class="ion-ios-search-strong"></i></a>
+                                <div class="dropdown_search">
+                                    <form action="#">
+                                        <input placeholder="Search here ..." type="text" />
+
+                                        <button type="submit"><i class="ion-ios-search-strong"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+                            <!--Seach Area End -->
+
+
+                            <!--Cart info Start -->
+                 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            <!--Header Bottom Account End -->
+
+
+            <!-- Menu menu Start -->
+            <div class="header-buttom-nav sticky-nav border-t-1px d-none d-lg-block">
+                <div class="container position-relative">
+                    <div class="row">
+                        <div class="col-md-6 text-left">
+                            <div class="d-flex align-items-start justify-content-start">
+                                <!--Main Navigation Start -->
+                                <div class="main-navigation mt-0px ">
+                                    <ul>
+                                      
+                                    <li>
+                                        <a asp-action="Index" asp-controller="Home" >Home </a>
+                                     
+                                    </li>
+
+                                    <li class="menu-dropdown">
+                                        <a href="#">Categories <i class="ion-ios-arrow-down"></i></a>
+                                        <ul class="mega-menu-wrap">
+
+                                            <li>
+                                                <ul>
+                                                    <li class="mega-menu-title"><a href="#">Medical</a></li>
+                                                    <li><a asp-action="Organic" asp-controller="Home">Organic</a></li>
+                                                    <li><a asp-action="InOrganic" asp-controller="Home">InOrganic</a></li>
+
+
+                                                </ul>
+                                            </li>
+
+                                            <li>
+                                                <ul>
+                                                    <li class="mega-menu-title"><a href="#">Clothes</a></li>
+                                                    <li><a asp-action="MensWear" asp-controller="Home">Men's Wear</a></li>
+                                                    <li><a asp-action="WomensWear" asp-controller="Home">Women's Wear</a></li>
+                                                 
+                                              
+                                                </ul>
+                                            </li>
+
+                                            <li>
+                                                <ul>
+                                                    <li class="mega-menu-title"><a href="#">Beauty & Cosmotics</a></li>
+                                                    <li><a asp-action="MensCosmotics" asp-controller="Home">Men's Cosmotics</a></li>
+                                                    <li><a asp-action="WomensCosmotics" asp-controller="Home">Women's Cosmotics</a></li>
+
+
+                                                </ul>
+                                            </li>
+
+
+                                            <li>
+                                                <ul>
+                                                    <li class="mega-menu-title"><a href="#">Electronics</a></li>
+                                                    <li><a asp-action="MobLap" asp-controller="Home">Mobiles & Laptops</a></li>
+                                                    <li><a asp-action="HomeAppliances" asp-controller="Home">Home Appliances</a></li>
+
+
+                                                </ul>
+                                            </li>
+
+                                          
+                                            <li class="banner-wrapper">
+                                                <a asp-action="Latest" asp-controller="Home"><img src="assets/images/banner-image/banner-menu-7.jpg" alt=""></a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+                                        <li><a  asp-action="Latest" asp-controller="Home">Latest Product</a></li>
+                                        <li><a  asp-action="Trending" asp-controller="Home">Trending Product</a></li>
+                                        <li><a asp-action ="Contact" asp-controller="Home">Contact Us</a></li>
+                                    </ul>
+                                </div>
+                                <!--Main menu End -->
+
+                            </div>
+
+                        </div>
+
+                    <div class="col-md-6 text-left">
+                    <div class="cart-info-wrap">
+                        <div class="cart-info d-flex home-9">
+
+                            <div class="header-right-nav hover-style-medical">
+                                <!-- Header Top Language Currency -->
+                                <div class="header-top-set-lan-curr d-flex justify-content-end">
+                                    <div class="header-bottom-set dropdown">
+                                        <button class="dropdown-toggle header-action-btn hover-style-medical color-black border-color-black border-0"
+                                                data-bs-toggle="dropdown">
+                                            <i class="fas fa-user" style="font-size: 20px;"></i>
+                                        </button>
+                                        <ul class="dropdown-menu">
+
+                                            <li><a class="dropdown-item" asp-action="Checkout" asp-controller="Home">Checkout</a></li>
+                                            <li><a class="dropdown-item" asp-action="Login" asp-controller="Home">Sign in</a></li>
+                                        </ul>
+                                    </div>
+
+
+                                </div>
+                                &nbsp;
+                                <a asp-action="Wishlist" asp-controller="Home" class="count-cart heart mlr-10px color-black">
+                                    <span class="item-quantity-tag">0</span>
+                                </a>
+                                <div class="mini-cart-warp" id="shopping-cart">
+                                    <a href="#offcanvas-cart" class="count-cart offcanvas-toggle color-black">
+
+                                        <span class="item-quantity-tag total-count">0</span>
+                                    </a>
+
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                        <!--Cart info End -->
+                    </div>
+                    </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Menu Content End -->
+
+
+
+
+            <!-- Header mobile area start -->
+            <div class="header-bottom d-lg-none d-block sticky-nav py-3 mobile-navigation hover-style-medical  bg-color-gary mb-3">
+                <div class="container-fluid">
+                    <div class="row justify-content-between align-items-center">
+                        <div class="col-md-3 col-sm-3">
+                            <a href="#offcanvas-mobile-menu" class="offcanvas-toggle mobile-menu">
+                                <i class="ion-navicon"></i>
+                            </a>
+                        </div>
+                        <div class="col-md-6 col-sm-4 d-flex">
+                            <div class="logo m-0">
+                                <a href="Home/Index"><img src="assets/images/logo/estore2.jpg" alt="" /></a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-5">
+                            <!--Cart info Start -->
+                            <div class="cart-info d-flex m-0 justify-content-end">
+                                <div class="header-bottom-set dropdown hover-style-medical">
+                                    <button class="dropdown-toggle header-action-btn hover-style-medical"
+                                            data-bs-toggle="dropdown">
+                                        <i class="ion-person"></i>
+                                    </button>
+                                    <ul class="dropdown-menu">
+
+                                    <li><a class="dropdown-item" asp-action="Checkout" asp-controller="Home">Checkout</a></li>
+                                    <li>
+                                    </ul>
+                                </div>
+                            &nbsp;
+                            <a asp-action="Wishlist" asp-controller="Home" class="count-cart heart mlr-10px color-black">
+                                <span class="item-quantity-tag">0</span>
+                            </a>
+                            <div class="mini-cart-warp" id="shopping-cart">
+                                <a href="#offcanvas-cart" class="count-cart offcanvas-toggle color-black">
+
+                                    <span class="item-quantity-tag total-count"></span>
+                                </a>
+
+
+                            </div>
+                            </div>
+                            <!--Cart info End -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Header mobile area end -->
+
+    </header>
+    <!-- Header End -->
+
+
+    <div class="mobile-search-option pb-3 d-lg-none hover-style-medical">
+        <div class="container-fluid">
+            <div class="header-account-list">
+                <div class="dropdown-search">
+                    <form action="#">
+                        <input placeholder="Search entire store here ..." type="text" />
+                        
+                        <button type="submit"><i class="ion-ios-search-strong"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div>
+
+        @RenderBody()
+
+    </div>
+
+
+    <footer class="footer-area">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <!-- footer single wedget -->
+                    <div class="col-md-6 col-lg-4">
+                        <!-- footer logo -->
+                        <div class="footer-logo">
+                            <a href="index.html"><img src="~/assets/images/logo/estore2.jpg" alt="" /></a>
+                        </div>
+                        <!-- footer logo -->
+                        <div class="about-footer">
+                            <p class="text-info">
+                                We are more than just an ecommerce platform; we're your go-to destination for Medicine that seamlessly blends innovation with elegance.
+                            </p>
+
+                            <div class="social-info">
+                                <ul>
+                                    <li>
+                                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-facebook"></i></a>
+                                    </li>
+                                    <li>
+                                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-twitter"></i></a>
+                                    </li>
+                                    <li>
+                                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-youtube"></i></a>
+                                    </li>
+                                    <li>
+                                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-google"></i></a>
+                                    </li>
+                                    <li>
+                                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-instagram"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- footer single wedget -->
+                    <div class="col-md-6 col-lg-2 mt-res-sx-30px mt-res-md-30px">
+                        <div class="single-wedge">
+                            <h4 class="footer-herading">Trending Products</h4>
+                            <div class="footer-links">
+                                <ul>
+                                    <li><a>Weight Gainer</a></li>
+                                    <li><a >Endura Mass</a></li>
+                                    <li><a>Nebulizer Machine</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- footer single wedget -->
+                    <div class="col-md-6 col-lg-2 mt-res-md-50px mt-res-sx-30px mt-res-md-30px">
+                        <div class="single-wedge">
+                            <h4 class="footer-herading">Most Buy Products</h4>
+                            <div class="footer-links">
+                                <ul>
+                                    <li><a>Horlicks</a></li>
+                                    <li><a>Corona Mask</a></li>
+                                    <li><a>HajMola</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 mt-res-md-50px mt-res-sx-30px mt-res-md-30px">
+                        <div class="single-wedge">
+                            <h4 class="footer-herading">Contact Here</h4>
+                            <div class="footer-links">
+                                <ul>
+                                    <li><a  asp-action="Index" asp-controller="Home"><i class="fas fa-envelope" style="color: #0bbfbd;"></i> tasleem@gmail.com</a></li>
+                                    <li><a href="tel:+919798404806"><i class="fas fa-phone" style="color: #0bbfbd;"></i> +91-9798404806</a></li>
+                                    <li><a  asp-action="Index" asp-controller="Home"><i class="fas fa-home" style="color: #0bbfbd;"></i> Jamshedpur,Jharkhand</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <!--  Footer start -->
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-12 text-center">
+                        <p class="copy-text">
+                            Copyright © 2024 By<a  asp-action="Index" asp-controller="Home"> Tasleem Kauser</a> || All Rights
+                            Reserved
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--  Footer End-->
+    </footer>
+
+    <!-- ............End of header & footer........ -->
+
+
+
+
+    <!-- offcanvas overlay start -->
+    <div class="offcanvas-overlay"></div>
+    <!-- offcanvas overlay end -->
+
+
+
+    <!-- OffCanvas Cart Start -->
+    <div id="offcanvas-cart" class="offcanvas offcanvas-cart">
+        <div class="inner">
+            <div class="head">
+                <span class="title">Cart</span>
+                <button class="offcanvas-close">×</button>
+            </div>
+            <div class="body customScroll">
+                <table class="show-cart table">
+                </table>
+                <div class="grand-total">Total price: ₹ <span class="total-cart"></span></div>
+
+            </div>
+         
+            <div class="foot mt-4">
+                <div class="buttons">
+                    <a asp-action="Checkout" asp-controller="Home" class="btn btn-outline-dark current-btn">checkout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- OffCanvas Cart End -->
+
+
+
+   
+
+
+
+    <!-- Modal for Show Add to Cart Product in Sidebar -->
+    <div class="modal fade" id="staticBackdrop" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">Your Cart</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <table class="show-cart table">
+                    </table>
+                    <div class="grand-total">Total price: ₹<span class="total-cart"></span></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <!-- <button type="button" class="btn btn-danger clear-all">Clear All</button> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal end -->
+
+
+
+
+
+    <!-- OffCanvas Menu Start -->
+    <div id="offcanvas-mobile-menu" class="offcanvas offcanvas-mobile-menu hover-style-default">
+        <button class="offcanvas-close"></button>
+        <!-- contact Info -->
+        <div class="contact-info d-flex align-items-center justify-content-center color-black py-3">
+            <div class="">
+                <a href="Home/Index"><img src="assets/images/logo/estore2.jpg" alt=""></a>
+            </div>
+        </div>
+        <!-- offcanvas compare & wishlist -->
+        <div class="user-panel">
+            <ul class="d-flex justify-content-between">
+                <li class="m-0">
+                    <a href="compare.html"><i class="ion-ios-shuffle-strong"></i>Compare (0)</a>
+                </li>
+                <li>
+                    <a href="wishlist.html"><i class="ion-android-favorite-outline"></i>Wishlist (0)</a>
+                </li>
+            </ul>
+        </div>
+   
+        <div class="offcanvas-userpanel">
+         
+        </div>
+
+        <div class="menu-close">
+            menu
+        </div>
+        <!-- offcanvas menu -->
+        <div class="inner customScroll">
+            <div class="offcanvas-menu mb-4">
+                <ul>
+                    <li>
+                        <a  asp-action="Index" asp-controller="Home"><span class="menu-text">Home</span></a>
+                        <ul class="sub-menu">
+                            <li>
+                                <a  asp-action="Index" asp-controller="Home"><span class="menu-text">Home Organic</span></a>
+                                <ul class="sub-menu">
+                                    <li><a href="index.html">Organic 1</a></li>
+                                    <li><a href="index-2.html">Organic 2</a></li>
+                                    <li><a href="index-3.html">Organic 3</a></li>
+                                    <li><a href="index-4.html">Organic 4</a></li>
+                                </ul>
+                            </li>
+                            </ul>
+                   </li>
+                           
+                </ul>
+            </div>
+            <!-- OffCanvas Menu End -->
+            <div class="offcanvas-social mt-5">
+                <ul>
+                    <li>
+                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-facebook"></i></a>
+                    </li>
+                    <li>
+                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-twitter"></i></a>
+                    </li>
+                    <li>
+                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-google"></i></a>
+                    </li>
+                    <li>
+                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-youtube"></i></a>
+                    </li>
+                    <li>
+                        <a  asp-action="Index" asp-controller="Home"><i class="ion-social-instagram"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- OffCanvas Menu End -->
+
+
+
+
+    <script src="~/assets/js/vendor/vendor.min.js"></script>
+    <script src="~/assets/js/plugins/plugins.min.js"></script>
+ 
+    <!-- Main Activation JS -->
+    <script src="~/assets/js/main.js"></script>
+    <script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+
+    <script>
+       // alert("sss");
+        window.setTimeout(function () {
+            $(".alert").fadeTo(500, 0).slideUp(500, function () {
+                $(this).remove();
+            });
+        }, 3000);
+    </script>
+
+
+
+    <script>
+
+
+        var shoppingCart = (function () {
+
+            cart = [];
+
+            function Item(name, price, count, photo) {
+                this.name = name;
+                this.price = price;
+                this.count = count;
+                this.photo = photo; // Add photo property
+            }
+
+            // Save cart
+            function saveCart() {
+                localStorage.setItem('shoppingCart', JSON.stringify(cart));
+            }
+
+            // Load cart
+            function loadCart() {
+                cart = JSON.parse(localStorage.getItem('shoppingCart'));
+            }
+            if (localStorage.getItem("shoppingCart") != null) {
+                loadCart();
+            }
+
+
+            var obj = {};
+
+            // Add to cart
+            obj.addItemToCart = function (name, price, count, photo) {
+                for (var item in cart) {
+                    if (cart[item].name === name) {
+                        cart[item].count++;
+                        saveCart();
+                        return;
+                    }
+                }
+                var item = new Item(name, price, count, photo); // Include photo here
+                cart.push(item);
+                saveCart();
+            }
+
+
+
+            // Set count from item
+            obj.setCountForItem = function (name, count) {
+                for (var i in cart) {
+                    if (cart[i].name === name) {
+                        cart[i].count = count;
+                        break;
+                    }
+                }
+            };
+            // Remove item from cart
+            obj.removeItemFromCart = function (name) {
+                for (var item in cart) {
+                    if (cart[item].name === name) {
+                        cart[item].count--;
+                        if (cart[item].count === 0) {
+                            cart.splice(item, 1);
+                        }
+                        break;
+                    }
+                }
+                saveCart();
+            }
+
+            // Remove all items from cart
+            obj.removeItemFromCartAll = function (name) {
+                for (var item in cart) {
+                    if (cart[item].name === name) {
+                        cart.splice(item, 1);
+                        break;
+                    }
+                }
+                saveCart();
+            }
+
+            // Clear cart
+            obj.clearCart = function () {
+                cart = [];
+                saveCart();
+            }
+
+            // Count cart
+            obj.totalCount = function () {
+                var totalCount = 0;
+                for (var item in cart) {
+                    totalCount += cart[item].count;
+                }
+                return totalCount;
+            }
+
+            // Total cart
+            obj.totalCart = function () {
+                var totalCart = 0;
+                for (var item in cart) {
+                    totalCart += cart[item].price * cart[item].count;
+                }
+                return Number(totalCart.toFixed(2));
+            }
+
+            // List cart
+            obj.listCart = function () {
+                var cartCopy = [];
+                for (i in cart) {
+                    item = cart[i];
+                    itemCopy = {};
+                    for (p in item) {
+                        itemCopy[p] = item[p];
+                    }
+                    itemCopy.total = Number(item.price * item.count).toFixed(2);
+                    cartCopy.push(itemCopy)
+                }
+                return cartCopy;
+            }
+            return obj;
+        })();
+
+
+        // Add item
+        $('.default-btn').click(function (event) {
+            // alert('working');
+            event.preventDefault();
+            var name = $(this).data('name');
+            var price = Number($(this).data('price'));
+            shoppingCart.addItemToCart(name, price, 1);
+            displayCart();
+        });
+
+        // Clear items
+        $('.clear-cart').click(function () {
+            shoppingCart.clearCart();
+            displayCart();
+        });
+
+
+
+
+        function displayCart() {
+            var cartArray = shoppingCart.listCart();
+            console.log(cartArray); // Log the cartArray to inspect its contents
+
+            var names = [];
+            var prices = [];
+            var quantities = [];
+
+            var output = "";
+            for (var i = 0; i < cartArray.length; i++) {
+                var cartItem = cartArray[i];
+                console.log(cartItem); // Log each cartItem to inspect its properties
+
+                // Add the product name to the names array
+                names.push(cartItem.name);
+
+                // Add the product price to the prices array
+                prices.push(cartItem.price);
+
+                // Add the product quantity to the quantities array
+                quantities.push(cartItem.count);
+
+                // Construct the HTML output for the current cart item
+                output += "<tr>"
+                    + "<td><img src='" + cartItem.photo + "' alt='Product Photo' style='width: 50px; height: 50px;'></td>"
+                    + "<td>" + cartItem.name + "</td>"
+                    + "<td>(" + cartItem.price + ")</td>"
+                    + "<td><div class='input-group'>"
+                    + "<input type='number' class='item-count form-control' data-name='" + cartItem.name + "' value='" + cartItem.count + "'>"
+                    + "</div></td>"
+                    + "<td><button class='delete-item btn btn-danger' data-name='" + cartItem.name + "'>X</button></td>"
+                    + " = "
+                    + "<td>" + cartItem.total + "</td>"
+                    + "</tr>";
+                updateCartCount(shoppingCart.totalCount());
+            }
+
+            // Update the HTML content of the cart table and total price
+            $('.show-cart').html(output);
+            $('.total-cart').html(shoppingCart.totalCart());
+
+            // Populate hidden input fields with cart item details
+            $('#cartItemNames').val(names.join(','));
+            $('#cartItemPrices').val(prices.join(','));
+            $('#cartItemQuantities').val(quantities.join(','));
+        }
+
+        function clearCart() {
+            // Clear the cart array or perform any other necessary action
+            shoppingCart.clearCart();
+
+            // Update the cart display
+            displayCart();
+        }
+
+
+
+        function updateCartCount(count) {
+            var totalCountSpan = document.querySelector('.item-quantity-tag.total-count');
+            if (totalCountSpan) {
+                totalCountSpan.textContent = count;
+            }
+        }
+
+  
+
+       
+
+
+        document.getElementById("clear-cart-btn").addEventListener("click", function () {
+            clearCart();
+        });
+        // Delete item button
+
+        $('.show-cart').on("click", ".delete-item", function (event) {
+            var name = $(this).data('name')
+            shoppingCart.removeItemFromCartAll(name);
+            displayCart();
+        })
+
+        // Item count input
+        $('.show-cart').on("change", ".item-count", function (event) {
+            var name = $(this).data('name');
+            var count = Number($(this).val());
+            shoppingCart.setCountForItem(name, count);
+            displayCart();
+        });
+        displayCart();
+
+        //////// ui script start /////////
+        // Tabs Single Page
+        $('.tab ul.tabs').addClass('active').find('> li:eq(0)').addClass('current');
+        $('.tab ul.tabs li a').on('click', function (g) {
+            var tab = $(this).closest('.tab'),
+                index = $(this).closest('li').index();
+            tab.find('ul.tabs > li').removeClass('current');
+            $(this).closest('li').addClass('current');
+            tab.find('.tab_content').find('div.tabs_item').not('div.tabs_item:eq(' + index + ')').slideUp();
+            tab.find('.tab_content').find('div.tabs_item:eq(' + index + ')').slideDown();
+            g.preventDefault();
+        });
+
+        // search function
+        $('#search_field').on('keyup', function () {
+            var value = $(this).val();
+            var patt = new RegExp(value, "i");
+
+            $('.tab_content').find('.col-lg-3').each(function () {
+                var $table = $(this);
+
+                if (!($table.find('.featured-item').text().search(patt) >= 0)) {
+                    $table.not('.featured-item').hide();
+                }
+                if (($table.find('.col-lg-3').text().search(patt) >= 0)) {
+                    $(this).show();
+                    document.getElementById('not_found').style.display = 'none';
+                } else {
+                    document.getElementById("not_found").innerHTML = " Product not found..";
+                    document.getElementById('not_found').style.display = 'block';
+                }
+
+            });
+
+        });
+    </script>
+
+
+
+    <script>
+
+
+        $('.add-to-link-btn').on('click', function () {
+            //alert("sss")
+            var cart = $('#shopping-cart');
+            var imgtodrag = $(this).parent('.item').find("img").eq(0);
+            if (imgtodrag) {
+                var imgclone = imgtodrag.clone()
+                    .offset({
+                        top: imgtodrag.offset().top,
+                        left: imgtodrag.offset().left
+                    })
+                    .css({
+                        'opacity': '0.5',
+                        'position': 'absolute',
+                        'height': '150px',
+                        'width': '150px',
+                        'z-index': '100'
+                    })
+                    .appendTo($('body'))
+                    .animate({
+                        'top': cart.offset().top + 10,
+                        'left': cart.offset().left + 10,
+                        'width': 75,
+                        'height': 75
+                    }, 1000, 'easeInOutExpo');
+
+                setTimeout(function () {
+                    cart.effect("shake", {
+                        times: 2
+                    }, 200);
+                }, 1500);
+
+                imgclone.animate({
+                    'width': 0,
+                    'height': 0
+                }, function () {
+                    $(this).detach()
+                });
+            }
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('.quick_view').on('click', function (e) {
+                e.preventDefault();
+
+                // Extract product data from the clicked button
+                var productId = $(this).data('product-id');
+                var productTitle = $(this).data('product-title');
+                var productPrice = $(this).data('product-price');
+                var productQty = $(this).data('product-qty');
+                var productPic = $(this).data('product-pic');
+                var productStatus = $(this).data('product-status');
+
+                // Create a form dynamically
+                var form = $('<form action="/Home/SingleProduct" method="post"></form>');
+
+                // Append hidden input fields with product data to the form
+                form.append('<input type="hidden" name="pid" value="' + productId + '" />');
+                form.append('<input type="hidden" name="title" value="' + productTitle + '" />');
+                form.append('<input type="hidden" name="price" value="' + productPrice + '" />');
+                form.append('<input type="hidden" name="qty" value="' + productQty + '" />');
+                form.append('<input type="hidden" name="pic" value="' + productPic + '" />');
+                form.append('<input type="hidden" name="status" value="' + productStatus + '" />');
+
+                // Append the form to the body and submit it
+                $('body').append(form);
+                form.submit();
+            });
+        });
+    </script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

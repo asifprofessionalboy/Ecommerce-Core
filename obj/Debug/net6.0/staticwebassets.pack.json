@@ -1,0 +1,1881 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\css\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\css\\images\\profile-cover.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\images\\profile-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\css\\vendor.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\vendor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\bg\\wave-bg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg\\wave-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\android.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\android.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\browser.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\browser.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\email.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\email.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\mastercard.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\order.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\order.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\paypal.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\paypal2.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\paypal2.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\visa.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\icon\\visitor.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icon\\visitor.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\pricing\\img-1.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\pricing\\img-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\user\\user-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\user\\user-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\img\\user\\user.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\user\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\analytics.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\analytics.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\calendar.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\calendar.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\chart-apex.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\chart-apex.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\chart-js.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\chart-js.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\dashboard.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\dashboard.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\email-compose.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\email-compose.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\file-manager.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\file-manager.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\form-plugins.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\form-plugins.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\highlightjs.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\highlightjs.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\map.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\map.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\page-coming-soon.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\page-coming-soon.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\page-data-management.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\page-data-management.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\page-gallery.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\page-gallery.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\page-messenger.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\page-messenger.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\page-product-details.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\page-product-details.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\page-scrum-board.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\page-scrum-board.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\pos-counter-checkout.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\pos-counter-checkout.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\pos-customer-order.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\pos-customer-order.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\pos-kitchen-order.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\pos-kitchen-order.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\pos-menu-stock.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\pos-menu-stock.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\pos-table-booking.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\pos-table-booking.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\sidebar-scrollspy.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\sidebar-scrollspy.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\table-plugins.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\table-plugins.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\ui-modal-notification.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\ui-modal-notification.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\demo\\widgets.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo\\widgets.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-bs5\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-bs5\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-bs5\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-bs5\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-responsive-bs5\\css\\responsive.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-responsive-bs5\\css\\responsive.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-responsive-bs5\\js\\responsive.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-responsive-bs5\\js\\responsive.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\plugins\\table-plugins.demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\plugins\\table-plugins.demo.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\admin\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\css\\plugins\\plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\css\\responsive.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\Stroke-Gap-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Stroke-Gap-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\0db9cf22-84b9-43f4-be2d-b2eabe63a9ae-PASSPORT SIZE.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\0db9cf22-84b9-43f4-be2d-b2eabe63a9ae-PASSPORT SIZE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\515c56b2-d7bd-4dc0-ac54-4cdf446ab579-PASSPORT SIZE.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\515c56b2-d7bd-4dc0-ac54-4cdf446ab579-PASSPORT SIZE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\9c962970-4e25-42ca-9b89-a17ce7b910e5-PASSPORT SIZE (2).jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\9c962970-4e25-42ca-9b89-a17ce7b910e5-PASSPORT SIZE (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\30.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\32.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\33.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\34.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\35.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\36.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\37.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\38.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\39.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\40.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\41.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\42.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\43.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\44.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\45.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\46.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\47.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\48.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\49.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\50.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\51.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\52.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\53.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\54.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\55.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\56.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\57.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\57.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\58.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\59.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\59.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\60.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\banner-menu-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\banner-menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\banner-menu-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\banner-menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\banner-menu-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\banner-menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\banner-menu-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\banner-menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\banner-menu-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\banner-menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\banner-menu-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\banner-menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\banner-image\\banner-menu.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-image\\banner-menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\blog-image\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\brand-logo\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\brand-logo\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\brand-logo\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\brand-logo\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\brand-logo\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brand-logo\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\ee47ac39-5e8b-4872-842c-28f359d6814a-PASSPORT SIZE (2).jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\ee47ac39-5e8b-4872-842c-28f359d6814a-PASSPORT SIZE (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\favicon\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\feature-bg\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-bg\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\feature-bg\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-bg\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\feature-bg\\feature-bg-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-bg\\feature-bg-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\feature-bg\\feature-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\feature-bg\\feature-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\app_store-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\app_store-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\app_store.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\app_store.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\feature-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\feature-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\feature-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\feature-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\feature-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\feature-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\google_play-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\google_play-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\google_play.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\google_play.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\icon_contact.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_contact.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\mobile-contact.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\mobile-contact.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\policy-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\policy-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\policy-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\policy-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\policy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\policy.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\service-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\service-icon-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\service-icon-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\static-icons-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\static-icons-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\tab-thumb-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\tab-thumb-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\tab-thumb-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\tab-thumb-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\tab-thumb-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\tab-thumb-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\icons\\youtube-brands.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\youtube-brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\estore.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\estore.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\estore2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\estore2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\footer-logo-electronic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\footer-logo-electronic.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\footer-logo-furniture.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\footer-logo-furniture.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\footer-logo-medical.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\footer-logo-medical.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\footer-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo-cosmatics.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-cosmatics.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo-electronic-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-electronic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo-electronic-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-electronic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo-electronic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-electronic.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo-furniture.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-furniture.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo-medical.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-medical.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\cosmatic\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\cosmatic\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\electronic\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\electronic\\thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\30.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\furniture\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\furniture\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\medical\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\medical\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\mini-cart\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\mini-cart\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\mini-cart\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\mini-cart\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\mini-cart\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\mini-cart\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\display\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\display\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\display\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\display\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\display\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\display\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\display\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\display\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\zoom\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\zoom\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\zoom\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\zoom\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\zoom\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\zoom\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\product-image\\organic\\zoom\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product-image\\organic\\zoom\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\sample1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\sample1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\sample2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\sample2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\sample3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\sample3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\sample4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\sample4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\sample5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\sample5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\single-product-page\\sample6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-page\\sample6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-21.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-22.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-23.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-24.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-25.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-26.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-27.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-28.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-29.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-30.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-32.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-33.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-34.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-35.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-36.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-37.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-38.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-39.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-40.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-41.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\slider-image\\sample-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-image\\sample-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\testimonial-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\testimonial-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\images\\testimonial-image\\user1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial-image\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\js\\plugins\\plugins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\00963062-023f-4f68-9223-8c2bf66af9e1_14.jpg",
+      "PackagePath": "staticwebassets\\images\\00963062-023f-4f68-9223-8c2bf66af9e1_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\02ff862e-e74a-459a-a8d8-2aeac5f13e53_5.jpg",
+      "PackagePath": "staticwebassets\\images\\02ff862e-e74a-459a-a8d8-2aeac5f13e53_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\037283e2-1766-4186-8446-7375be7d5580_1.jpg",
+      "PackagePath": "staticwebassets\\images\\037283e2-1766-4186-8446-7375be7d5580_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\10ed958e-fb0e-435e-a380-5965290d8419_9.jpg",
+      "PackagePath": "staticwebassets\\images\\10ed958e-fb0e-435e-a380-5965290d8419_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\116183bd-1f0a-4d8f-933d-45b7f807c836_4.jpg",
+      "PackagePath": "staticwebassets\\images\\116183bd-1f0a-4d8f-933d-45b7f807c836_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\1c44bc31-b2ce-47e9-8d54-f65618a401da_product-19.jpg",
+      "PackagePath": "staticwebassets\\images\\1c44bc31-b2ce-47e9-8d54-f65618a401da_product-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\1e9382bc-ab85-4d50-9f78-23d05fe47dba_14.jpg",
+      "PackagePath": "staticwebassets\\images\\1e9382bc-ab85-4d50-9f78-23d05fe47dba_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\1fd1c344-0f99-4013-b0e0-3a571f59d84a_9.jpg",
+      "PackagePath": "staticwebassets\\images\\1fd1c344-0f99-4013-b0e0-3a571f59d84a_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\2e3df064-1ecd-42c5-8680-db516b768f36_12.jpg",
+      "PackagePath": "staticwebassets\\images\\2e3df064-1ecd-42c5-8680-db516b768f36_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\311f8daf-ff7c-4f21-9587-02809648e1dd_8.jpg",
+      "PackagePath": "staticwebassets\\images\\311f8daf-ff7c-4f21-9587-02809648e1dd_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\349221d2-fe78-4023-9563-1778656e1553_4.jpg",
+      "PackagePath": "staticwebassets\\images\\349221d2-fe78-4023-9563-1778656e1553_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\36cdbab0-574c-451f-93df-29af9dca70ed_7.jpg",
+      "PackagePath": "staticwebassets\\images\\36cdbab0-574c-451f-93df-29af9dca70ed_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\4537a332-a405-4585-9690-bfef0a5d2693_2.jpg",
+      "PackagePath": "staticwebassets\\images\\4537a332-a405-4585-9690-bfef0a5d2693_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\4fab1e95-6826-4849-9774-31b31d04e609_9.jpg",
+      "PackagePath": "staticwebassets\\images\\4fab1e95-6826-4849-9774-31b31d04e609_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\566d8a5d-25e1-4f74-bf83-aa75dac08a94_PASSPORT SIZE (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\566d8a5d-25e1-4f74-bf83-aa75dac08a94_PASSPORT SIZE (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\6cd54d88-b7a3-49f7-8ef1-a9b005fa74a7_10.jpg",
+      "PackagePath": "staticwebassets\\images\\6cd54d88-b7a3-49f7-8ef1-a9b005fa74a7_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\7eaddb0a-de44-4996-88e1-0ca03e82516e_13.jpg",
+      "PackagePath": "staticwebassets\\images\\7eaddb0a-de44-4996-88e1-0ca03e82516e_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\84113f56-c4bc-4b90-80cf-d0e855a82aba_PASSPORT SIZE.jpeg",
+      "PackagePath": "staticwebassets\\images\\84113f56-c4bc-4b90-80cf-d0e855a82aba_PASSPORT SIZE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\88ef29f1-1821-467a-86e6-260c59852ac8_PASSPORT SIZE.jpeg",
+      "PackagePath": "staticwebassets\\images\\88ef29f1-1821-467a-86e6-260c59852ac8_PASSPORT SIZE.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\92e901e7-43ab-49d3-90b4-eb19c7078fbe_3.jpg",
+      "PackagePath": "staticwebassets\\images\\92e901e7-43ab-49d3-90b4-eb19c7078fbe_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\9cb3bb34-266e-4702-a354-0131d0758b35_12.jpg",
+      "PackagePath": "staticwebassets\\images\\9cb3bb34-266e-4702-a354-0131d0758b35_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\9fed12a9-24db-4839-b315-79d6a8af2869_13.jpg",
+      "PackagePath": "staticwebassets\\images\\9fed12a9-24db-4839-b315-79d6a8af2869_13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\a61d4f3b-dc62-41f3-8bef-02f8487ad875_3.jpg",
+      "PackagePath": "staticwebassets\\images\\a61d4f3b-dc62-41f3-8bef-02f8487ad875_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\a91879d3-25e0-4a50-939c-9d43cd400217_3.jpg",
+      "PackagePath": "staticwebassets\\images\\a91879d3-25e0-4a50-939c-9d43cd400217_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\acdaa361-14ba-4ea2-8532-d8fadf2d5613_12.jpg",
+      "PackagePath": "staticwebassets\\images\\acdaa361-14ba-4ea2-8532-d8fadf2d5613_12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\af093ef7-75cc-4124-adee-2fbe2a9f3d75_4.jpg",
+      "PackagePath": "staticwebassets\\images\\af093ef7-75cc-4124-adee-2fbe2a9f3d75_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\bde077aa-f743-418b-8b19-c24406467811_14.jpg",
+      "PackagePath": "staticwebassets\\images\\bde077aa-f743-418b-8b19-c24406467811_14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\c6f727ac-cd71-47b3-9d11-673beedc1a47_9.jpg",
+      "PackagePath": "staticwebassets\\images\\c6f727ac-cd71-47b3-9d11-673beedc1a47_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\ca92c9d8-f3d1-456b-8037-e05665ec1013_1.jpg",
+      "PackagePath": "staticwebassets\\images\\ca92c9d8-f3d1-456b-8037-e05665ec1013_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\d189670c-0f98-4650-ad0c-59299241b85e_4.jpg",
+      "PackagePath": "staticwebassets\\images\\d189670c-0f98-4650-ad0c-59299241b85e_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\e33410a2-2370-4e04-8ae4-3fd8465b16fb_9.jpg",
+      "PackagePath": "staticwebassets\\images\\e33410a2-2370-4e04-8ae4-3fd8465b16fb_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\e4340fb2-a96a-4185-947e-59d969cbbcf1_3.jpg",
+      "PackagePath": "staticwebassets\\images\\e4340fb2-a96a-4185-947e-59d969cbbcf1_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\e7312100-fb57-419a-b4ac-3edf013b6077_3.jpg",
+      "PackagePath": "staticwebassets\\images\\e7312100-fb57-419a-b4ac-3edf013b6077_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Ecommerce_Project\\Ecommerce_Project\\wwwroot\\images\\ec1c2d94-4355-419a-a0cb-1b8de89140b2_5.jpg",
+      "PackagePath": "staticwebassets\\images\\ec1c2d94-4355-419a-a0cb-1b8de89140b2_5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ecommerce_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ecommerce_Project.props",
+      "PackagePath": "build\\Ecommerce_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce_Project.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce_Project.props",
+      "PackagePath": "buildTransitive\\Ecommerce_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
